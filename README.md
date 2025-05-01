@@ -20116,7 +20116,7 @@ const serviceProvidersData = [
       support: {
         email: "support@delhiplumbing.com",
         phone: "+91-9876543210",
-        whatsapp: "+91-9876543210",
+        whatsapp: "+91-7869809022",
         primaryContact: "whatsapp"
       },
       rating: "4.8",
